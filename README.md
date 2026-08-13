@@ -15,11 +15,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/kpherald">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
 <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -27,15 +23,15 @@
 <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/kpherald">
+<a href="https://github.com/Kp-herald">
 <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=kpherald&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/kpherald?style=for-the-badge&color=4C1D95&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/kpherald?style=for-the-badge&color=312E81&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=Kp-herald&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Kp-herald?style=for-the-badge&color=4C1D95&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Kp-herald?style=for-the-badge&color=312E81&label=STARS"/>
 
 </div>
 
@@ -131,7 +127,7 @@ A Power BI dashboard created to analyze credit card financial data and present k
 | **Performance** | Interactive dashboard |
 | **Security** | Not applicable |
 | **Impact** | Provides a visual view of financial performance and trends |
-| **Repository** | [GitHub](https://github.com/kpherald) |
+| **Repository** | [GitHub](https://github.com/Kp-herald/REPO-NAME-HERE) |
 
 **Key Work**
 
@@ -155,7 +151,7 @@ A Power BI sales analytics dashboard designed to explore sales performance, prod
 | **Performance** | Interactive dashboard |
 | **Security** | Not applicable |
 | **Impact** | Helps visualize sales trends and performance |
-| **Repository** | [GitHub](https://github.com/kpherald) |
+| **Repository** | [GitHub](https://github.com/Kp-herald/REPO-NAME-HERE) |
 
 **Key Work**
 
@@ -179,7 +175,7 @@ An end-to-end analytics project using Python, SQL and Power BI to analyze vendor
 | **Performance** | End-to-end analytics workflow |
 | **Security** | Not applicable |
 | **Impact** | Provides insights into vendor and procurement performance |
-| **Repository** | [GitHub](https://github.com/kpherald) |
+| **Repository** | [GitHub](https://github.com/Kp-herald/vendor_performance_dashboard_analytics) |
 
 **Key Work**
 
@@ -203,7 +199,7 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 | **Performance** | End-to-end analytics workflow |
 | **Security** | Not applicable |
 | **Impact** | Provides insights into customer shopping behavior |
-| **Repository** | [GitHub](https://github.com/kpherald) |
+| **Repository** | [GitHub](https://github.com/Kp-herald/REPO-NAME-HERE) |
 
 **Key Work**
 
@@ -250,7 +246,7 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 
 <div align="center">
 
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/YOUR-HACKERRANK-HANDLE">
 <img src="https://img.shields.io/badge/HackerRank-Profile-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
@@ -262,13 +258,13 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kpherald&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kp-herald&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github" width="49%" alt="GitHub Stats"/>
 
-<img src="https://streak-stats.demolab.com?user=kpherald&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="49%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Kp-herald&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="49%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kpherald&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="45%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kp-herald&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="45%" alt="Top Languages"/>
 
 </div>
 
@@ -278,7 +274,7 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 
 <div align="center">
 
-<img src="https://github-profile-trophy.screw-hand.com/?username=kpherald&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kp-herald&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -288,7 +284,7 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kpherald&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kp-herald&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -299,9 +295,9 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kpherald/kpherald/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kpherald/kpherald/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/kpherald/kpherald/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kp-herald/Kp-herald/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kp-herald/Kp-herald/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Kp-herald/Kp-herald/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </picture>
 
 </div>
@@ -336,3 +332,4 @@ Open To:
   - Business Intelligence Roles
   - Reporting & Analytics Roles
   - Entry-Level IT Opportunities
+```
