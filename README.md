@@ -47,7 +47,7 @@ I am a **Computer Science graduate and aspiring Data Analyst & Business Analyst*
 
 I enjoy working with data to discover patterns, answer business questions, and create clear, interactive dashboards that communicate insights effectively.
 
-My learning journey includes **Exploratory Data Analysis, data cleaning, SQL analytics, Power BI, DAX, Excel, Tableau, ETL concepts, Snowflake fundamentals, AWS fundamentals, and feature engineering**.
+My learning journey includes **Exploratory Data Analysis, data cleaning, SQL analytics, Power BI, DAX, Excel, Tableau, ETL concepts, and feature engineering**.
 
 ### Open To
 
@@ -83,8 +83,6 @@ My learning journey includes **Exploratory Data Analysis, data cleaning, SQL ana
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 </p>
 
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
-
 ### Data Analytics & BI
 
 <p>
@@ -97,10 +95,10 @@ My learning journey includes **Exploratory Data Analysis, data cleaning, SQL ana
 <img src="https://img.shields.io/badge/Seaborn-6D28D9?style=flat-square"/>
 </p>
 
-### Cloud, DevOps & Tooling
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
 </p>
 
 ---
@@ -114,7 +112,7 @@ My learning journey includes **Exploratory Data Analysis, data cleaning, SQL ana
 | **Statistics** | Intermediate | Descriptive statistics, variance, standard deviation and analytical concepts |
 | **Feature Engineering** | Beginner | Feature creation and transformation concepts |
 | **Data Preprocessing** | Intermediate | Data cleaning and preparation for analysis |
-| **Machine Learning Foundations** | Beginner | Familiarity with fundamental ML concepts |
+| **Machine Learning Foundations** | Beginner | Familiarity with fundamental machine learning concepts |
 | **Prompt Engineering** | Beginner | Structured prompting and AI-assisted workflows |
 
 ---
@@ -131,9 +129,9 @@ A Power BI dashboard created to analyze credit card financial data and present k
 | **Stack** | Power BI, DAX |
 | **Scale** | Financial dataset |
 | **Performance** | Interactive dashboard |
-| **Security** | No security implementation claimed |
+| **Security** | Not applicable |
 | **Impact** | Provides a visual view of financial performance and trends |
-| **Repository** | [GitHub Profile](https://github.com/kpherald) |
+| **Repository** | [GitHub](https://github.com/kpherald) |
 
 **Key Work**
 
@@ -155,9 +153,9 @@ A Power BI sales analytics dashboard designed to explore sales performance, prod
 | **Stack** | Power BI, DAX |
 | **Scale** | Sales dataset |
 | **Performance** | Interactive dashboard |
-| **Security** | No security implementation claimed |
+| **Security** | Not applicable |
 | **Impact** | Helps visualize sales trends and performance |
-| **Repository** | [GitHub Profile](https://github.com/kpherald) |
+| **Repository** | [GitHub](https://github.com/kpherald) |
 
 **Key Work**
 
@@ -179,9 +177,9 @@ An end-to-end analytics project using Python, SQL and Power BI to analyze vendor
 | **Stack** | Python, SQL, Power BI |
 | **Scale** | Procurement dataset |
 | **Performance** | End-to-end analytics workflow |
-| **Security** | No security implementation claimed |
+| **Security** | Not applicable |
 | **Impact** | Provides insights into vendor and procurement performance |
-| **Repository** | [GitHub Profile](https://github.com/kpherald) |
+| **Repository** | [GitHub](https://github.com/kpherald) |
 
 **Key Work**
 
@@ -203,9 +201,9 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 | **Stack** | Python, SQL, Power BI |
 | **Scale** | 3,900 customer records |
 | **Performance** | End-to-end analytics workflow |
-| **Security** | No security implementation claimed |
+| **Security** | Not applicable |
 | **Impact** | Provides insights into customer shopping behavior |
-| **Repository** | [GitHub Profile](https://github.com/kpherald) |
+| **Repository** | [GitHub](https://github.com/kpherald) |
 
 **Key Work**
 
@@ -252,8 +250,8 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 
 <div align="center">
 
-<a href="https://www.hackerrank.com/certificates/4e519c1219de">
-<img src="https://img.shields.io/badge/HackerRank-SQL-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </div>
@@ -264,13 +262,13 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kpherald&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github" width="49%" alt="GitHub Stats"/>
 
-<img src="./profile/streak.svg" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=kpherald&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="49%" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kpherald&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="45%" alt="Top Languages"/>
 
 </div>
 
@@ -280,7 +278,7 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 
 <div align="center">
 
-<img src="./profile/trophy.svg" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.screw-hand.com/?username=kpherald&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -301,9 +299,9 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
-  <img src="./profile/github-snake.svg" alt="GitHub Contribution Snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kpherald/kpherald/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kpherald/kpherald/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/kpherald/kpherald/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </picture>
 
 </div>
@@ -319,7 +317,6 @@ Learning:
   - Business Intelligence
   - Statistics
   - Data Analytics
-  - Cloud Fundamentals
 
 Building:
   - End-to-End Data Analytics Projects
@@ -332,7 +329,6 @@ Exploring:
   - Business Analysis
   - AI-Assisted Analytics
   - Machine Learning Foundations
-  - Cloud Data Platforms
 
 Open To:
   - Data Analyst Roles
