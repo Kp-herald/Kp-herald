@@ -221,8 +221,6 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 |---|---|
 | **Deloitte Data Analytics Job Simulation** | Completed Deloitte's Data Analytics Job Simulation |
 | **HackerRank SQL Certification** | Earned a HackerRank SQL certification |
-| **Data Analytics Projects** | Built multiple projects using Python, SQL and Power BI |
-| **Power BI Projects** | Developed interactive dashboards for financial and sales analysis |
 
 </div>
 
@@ -249,32 +247,6 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 <a href="https://www.hackerrank.com/YOUR-HACKERRANK-HANDLE">
 <img src="https://img.shields.io/badge/HackerRank-Profile-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kp-herald&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github" width="49%" alt="GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com?user=Kp-herald&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="49%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kp-herald&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="45%" alt="Top Languages"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kp-herald&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
