@@ -251,7 +251,28 @@ An end-to-end customer analytics project using Python, SQL and Power BI to under
 </div>
 
 ---
+## GitHub Analytics
 
+<div align="center">
+
+<img src="./profile/stats.svg" width="49%" alt="GitHub Stats"/>
+<img src="./profile/streak.svg" width="49%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="./profile/top-langs.svg" width="45%" alt="Top Languages"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="./profile/trophy.svg" width="90%" alt="GitHub Trophies"/>
+
+</div>
 ## Contribution Activity
 
 <div align="center">
