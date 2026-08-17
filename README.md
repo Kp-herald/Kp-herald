@@ -24,7 +24,7 @@
   <a href="https://github.com/Kp-herald">
     <img src="https://img.shields.io/badge/GitHub-Kp--herald-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/k-pramod-herald" target="_blank">
+  <a href="https://www.linkedin.com/in/k-pramod-herald-92a27b295/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-K--Pramod--Herald-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kpherald7@gmail.com">
