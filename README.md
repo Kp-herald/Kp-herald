@@ -259,7 +259,7 @@ I enjoy analyzing data, identifying trends and patterns, designing meaningful KP
 ## 📬 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/k-pramod-herald" target="_blank">
+  <a href="https://www.linkedin.com/in/k-pramod-herald-92a27b295/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kpherald7@gmail.com">
