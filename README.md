@@ -1,488 +1,450 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D3D3D3,50:E5B8B8,100:FF3B3B&height=250&section=header&text=KATTI%20PRAMOD%20HERALD&fontSize=42&fontColor=2B2B2B&fontAlignY=35&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D3D3D3,50:E5B8B8,100:FF3B3B&height=250&section=header&text=KATTI%20PRAMOD%20HERALD&fontSize=42&fontColor=2B2B2B&fontAlignY=35&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D3D3D3,50:E5B8B8,100:FF3B3B&height=250&section=header&text=KATTI%20PRAMOD%20HERALD&fontSize=42&fontColor=2B2B2B&fontAlignY=35&animation=fadeIn" width="100%" alt="Katti Pramod Herald"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123C69,100:00B4D8&height=240&section=header&text=KATTI%20PRAMOD%20HERALD&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:CAF0F8,50:90E0EF,100:0077B6&height=240&section=header&text=KATTI%20PRAMOD%20HERALD&fontSize=42&fontColor=0B1220&fontAlignY=35&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123C69,100:00B4D8&height=240&section=header&text=KATTI%20PRAMOD%20HERALD&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" alt="Katti Pramod Herald"/>
 </picture>
 
-Hey there, I'm Katti Pramod Herald 👋
+# Hey there, I'm Katti Pramod Herald
 
-<a href="https://github.com/Kp-herald">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D32F2F&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;BI+Analyst+%7C+Business+Analyst;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Turning+Data+into+Actionable+Insights;Building+Data-Driven+Solutions" alt="Typing SVG"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;BI+Analyst+%7C+Business+Analyst;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Turning+Data+into+Actionable+Insights;Building+Data-Driven+Solutions" alt="Typing Animation"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Kp-herald?tab=followers">
-  <img src="https://img.shields.io/github/followers/Kp-herald?style=for-the-badge&label=Followers&color=D32F2F&labelColor=D3D3D3" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/Kp-herald?style=for-the-badge&label=Followers&color=00B4D8&labelColor=0B1220"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/Kp-herald?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Kp-herald?style=for-the-badge&label=Stars&color=D32F2F&labelColor=D3D3D3" alt="GitHub Stars"/>
+<img src="https://img.shields.io/github/stars/Kp-herald?style=for-the-badge&label=Stars&color=48CAE4&labelColor=0B1220"/>
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Kp-herald&style=for-the-badge&color=D32F2F&labelColor=D3D3D3&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<img src="https://komarev.com/ghpvc/?username=Kp-herald&style=for-the-badge&color=0077B6&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
 <a href="https://github.com/Kp-herald">
-  <img src="https://img.shields.io/badge/GitHub-Kp--herald-D3D3D3?style=for-the-badge&logo=github&logoColor=D32F2F"/>
+<img src="https://img.shields.io/badge/GitHub-Kp--herald-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/k-pramod-herald">
-  <img src="https://img.shields.io/badge/LinkedIn-K--Pramod--Herald-D3D3D3?style=for-the-badge&logo=linkedin&logoColor=D32F2F"/>
+<img src="https://img.shields.io/badge/LinkedIn-K--Pramod--Herald-0077B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:kpherald7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kpherald7%40gmail.com-D3D3D3?style=for-the-badge&logo=gmail&logoColor=D32F2F"/>
+<img src="https://img.shields.io/badge/Email-kpherald7%40gmail.com-00B4D8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <a href="./Katti_Pramod_Herald_Data_Analyst.pdf">
-  <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-D32F2F?style=for-the-badge&labelColor=D3D3D3"/>
+<img src="https://img.shields.io/badge/VIEW%20MY%20RESUME-0077B6?style=for-the-badge"/>
 </a>
 
 </div>
 
-🖤 About Me
+---
+
+## About Me
 
 <table>
 <tr>
+
 <td width="65%" valign="middle">
 
-Hi, I'm Herald! 👋
-
-I'm a Computer Science & Engineering graduate and an Aspiring Data Analyst with a strong foundation in SQL, Python, Power BI, Excel, and Tableau.
+I'm a **Computer Science & Engineering graduate** and an **Aspiring Data Analyst** with a strong foundation in **SQL, Python, Power BI, Excel, and Tableau**.
 
 I enjoy analyzing data, identifying trends and patterns, designing meaningful KPIs, and transforming complex datasets into clear, actionable business insights.
 
-💡 What I Do
+### What I Do
 
-📊 Data Analysis & Exploratory Data Analysis
+- Data Analysis & Exploratory Data Analysis
+- SQL Analytics
+- Python Data Analysis
+- Power BI Dashboard Development
+- DAX & KPI Development
+- Excel Analysis & Reporting
+- Data Cleaning & Transformation
+- Trend & Performance Analysis
+- Business-focused Analysis
+- Relational Data Modeling
 
-🗄️ SQL Analytics
+### Open To
 
-🐍 Python Data Analysis
-
-📈 Power BI Dashboard Development
-
-🧮 DAX & KPI Development
-
-📑 Excel Analysis & Reporting
-
-🧹 Data Cleaning & Transformation
-
-🔎 Trend & Performance Analysis
-
-💼 Business-focused Analysis
-
-🧩 Relational Data Modeling
-
-🎯 Open To
-
-Data Analyst • BI Analyst • Business Analyst • Reporting Analyst • Entry-Level Analytics Roles
+**Data Analyst • BI Analyst • Business Analyst • Reporting Analyst • Entry-Level Analytics Roles**
 
 </td>
 
 <td width="35%" align="center">
 
-<img src="https://github.com/Kp-herald.png" width="260" alt="Katti Pramod Herald"/>
+<img src="https://github.com/Kp-herald.png" width="240" alt="Katti Pramod Herald"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-D32F2F?style=for-the-badge&labelColor=D3D3D3"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE-0077B6?style=for-the-badge"/>
 <br/>
-<img src="https://img.shields.io/badge/CGPA-7.76-D32F2F?style=for-the-badge&labelColor=D3D3D3"/>
+<img src="https://img.shields.io/badge/CGPA-7.76-00B4D8?style=for-the-badge&labelColor=0B1220"/>
 <br/>
-<img src="https://img.shields.io/badge/Graduated-2025-D32F2F?style=for-the-badge&labelColor=D3D3D3"/>
+<img src="https://img.shields.io/badge/Graduated-2025-48CAE4?style=for-the-badge&labelColor=0B1220"/>
 
 </td>
+
 </tr>
 </table>
 
-🛠️ Tech Stack
+---
+
+# Technical Skills
 
 <div align="center">
 
-🗄️ SQL & Databases
+### Data & Databases
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" alt="SQL and Databases"/>
-</a>
+`SQL` `MS SQL Server` `PostgreSQL` `MySQL`
 
-<br/><br/>
+<br/>
 
-🐍 Python & Data Analytics
+### Programming & Analytics
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python"/>
-</a>
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Pandas-D3D3D3?style=for-the-badge&logo=pandas&logoColor=D32F2F"/>
-<img src="https://img.shields.io/badge/NumPy-D3D3D3?style=for-the-badge&logo=numpy&logoColor=D32F2F"/>
-<img src="https://img.shields.io/badge/Matplotlib-D3D3D3?style=for-the-badge&logo=python&logoColor=D32F2F"/>
-<img src="https://img.shields.io/badge/Seaborn-D3D3D3?style=for-the-badge&logo=python&logoColor=D32F2F"/>
+### Business Intelligence
 
-<br/><br/>
+`Power BI` `DAX` `Power Query` `Data Modeling`
 
-📊 Business Intelligence & Visualization
+<br/>
 
-<img src="https://img.shields.io/badge/Power%20BI-D3D3D3?style=for-the-badge&logo=powerbi&logoColor=D32F2F"/>
-<img src="https://img.shields.io/badge/DAX-D3D3D3?style=for-the-badge&logo=powerbi&logoColor=D32F2F"/>
-<img src="https://img.shields.io/badge/Power%20Query-D3D3D3?style=for-the-badge&logo=powerbi&logoColor=D32F2F"/>
-<img src="https://img.shields.io/badge/Excel-D3D3D3?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
-<img src="https://img.shields.io/badge/Tableau-D3D3D3?style=for-the-badge&logo=tableau&logoColor=D32F2F"/>
+### Reporting & Visualization
 
-<br/><br/>
+`Microsoft Excel` `Tableau` `KPI Design` `Data Visualization`
 
-🔧 Tools
+<br/>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Tools"/>
-</a>
+### Data Analysis
 
-<br/><br/>
+`Data Cleaning` `Data Wrangling` `EDA` `Data Profiling`  
+`Trend Identification` `Statistical Analysis` `Data Quality`
 
-<img src="https://img.shields.io/badge/Jupyter-D3D3D3?style=for-the-badge&logo=jupyter&logoColor=D32F2F"/>
+<br/>
 
-</div>
+### Business Analysis
 
-📊 GitHub Stats
+`Requirements Analysis` `Business Requirements`  
+`Process Analysis` `Process Mapping`  
+`Gap Analysis` `Decision Support` `Options Analysis`
 
-<div align="center">
+<br/>
 
-<!-- Static profile summary cards generated by GitHub Actions -->
+### Tools
 
-<a href="https://github.com/Kp-herald">
-  <img src="https://raw.githubusercontent.com/Kp-herald/Kp-herald/output/generated/overview.svg" alt="GitHub Overview" width="48%"/>
-</a>
-&nbsp;
-<a href="https://github.com/Kp-herald">
-  <img src="https://raw.githubusercontent.com/Kp-herald/Kp-herald/output/generated/languages.svg" alt="Top Languages" width="48%"/>
-</a>
-
-<br/><br/>
-
-<!-- Streak card is kept separate so it can be replaced by a static SVG later if needed -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kp-herald&theme=default&hide_border=true&background=D3D3D3&stroke=D32F2F&ring=D32F2F&fire=D32F2F&currStreakLabel=D32F2F&sideLabels=2B2B2B&currStreakNum=2B2B2B&sideNums=2B2B2B&dates=6B6B6B" alt="GitHub Streak" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kp-herald&theme=minimal&bg_color=D3D3D3&color=D32F2F&line=D32F2F&point=2B2B2B&hide_border=true&area=true" alt="GitHub Activity Graph" width="97%"/>
+`Git` `GitHub` `Jupyter Notebook` `VS Code`
 
 </div>
 
-🐍 Contribution Snake
+---
 
-<div align="center">
-
-<!--
-  ⚙️ To enable this snake animation:
-  1. Add the file `.github/workflows/snake.yml` to this repository (Kp-herald/Kp-herald).
-  2. Use the "Platane/snk" GitHub Action to generate the snake SVG on a schedule.
-  3. Commit the generated SVG to an "output" branch and reference it below.
-
-  Example workflow (save as .github/workflows/snake.yml):
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: Kp-herald
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kp-herald/Kp-herald/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kp-herald/Kp-herald/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Kp-herald/Kp-herald/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-🚀 Featured Projects
+# Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
+
+<td width="50%" valign="top">
 
 <a href="https://github.com/Kp-herald/vendor_performance_dashboard_analytics">
-  <img src="https://opengraph.githubassets.com/1/Kp-herald/vendor_performance_dashboard_analytics" alt="Vendor Performance & Procurement Analytics" width="100%"/>
+<img src="./assets/projects/vendor-performance.png" width="100%" alt="Vendor Performance & Procurement Analytics"/>
 </a>
 
-📦 Vendor Performance & Procurement Analytics
+### Vendor Performance & Procurement Analytics
 
-SQL • Python • Power BI
+**SQL • Python • Power BI**
 
-$441M sales analyzed • 21 KPIs
+End-to-end procurement analytics covering vendor performance, sales, profitability, purchasing, inventory, and brand concentration.
+
+**$441M Sales · 118 Vendors · 21 KPIs**
 
 <a href="https://github.com/Kp-herald/vendor_performance_dashboard_analytics">
-  <img src="https://img.shields.io/badge/View%20Project-D32F2F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 <a href="https://github.com/Kp-herald/credit-card-financial-dashboard">
-  <img src="https://opengraph.githubassets.com/1/Kp-herald/credit-card-financial-dashboard" alt="Credit Card Financial Dashboard" width="100%"/>
+<img src="./assets/projects/credit-card-financial.png" width="100%" alt="Credit Card Financial Dashboard"/>
 </a>
 
-💳 Credit Card Financial Dashboard
+### Credit Card Financial Dashboard
 
-SQL • Power BI
+**SQL • Power BI**
 
-$44.5M transactions • 614 accounts
+Financial analytics covering transactions, revenue, customer segments, utilization, and delinquency risk.
+
+**$44.5M Transactions · $7.8M Interest Revenue · 614 Accounts**
 
 <a href="https://github.com/Kp-herald/credit-card-financial-dashboard">
-  <img src="https://img.shields.io/badge/View%20Project-D32F2F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" align="center">
+
+<td width="50%" valign="top">
 
 <a href="https://github.com/Kp-herald/customer_shopping_behavior_data_analysis">
-  <img src="https://opengraph.githubassets.com/1/Kp-herald/customer_shopping_behavior_data_analysis" alt="Customer Shopping Behaviour Analysis" width="100%"/>
+<img src="./assets/projects/customer-shopping.png" width="100%" alt="Customer Shopping Behaviour Analysis"/>
 </a>
 
-🛍️ Customer Shopping Behaviour Analysis
+### Customer Shopping Behaviour Analysis
 
-SQL • Python • Power BI
+**SQL • Python • Power BI**
 
-3,900+ customers • 3 loyalty tiers
+Customer analytics project focused on purchasing patterns, customer segmentation, loyalty, and promotional performance.
+
+**3,900+ Customers · 3 Loyalty Tiers · 10+ SQL Queries**
 
 <a href="https://github.com/Kp-herald/customer_shopping_behavior_data_analysis">
-  <img src="https://img.shields.io/badge/View%20Project-D32F2F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 <a href="https://github.com/Kp-herald/electrohub-sales-analytics">
-  <img src="https://opengraph.githubassets.com/1/Kp-herald/electrohub-sales-analytics" alt="ElectroHub Sales Analytics" width="100%"/>
+<img src="./assets/projects/electrohub.png" width="100%" alt="ElectroHub Sales Analytics"/>
 </a>
 
-⚡ ElectroHub Sales Analytics
+### ElectroHub Sales Analytics
 
-Power BI
+**Power BI**
 
-₹122M revenue • 30+ SKUs ranked
+Sales analytics dashboard covering revenue, profitability, product performance, geography, and period comparisons.
+
+**₹122M Revenue · ₹12.2M Profit · 30+ SKUs**
 
 <a href="https://github.com/Kp-herald/electrohub-sales-analytics">
-  <img src="https://img.shields.io/badge/View%20Project-D32F2F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
 </div>
 
-📦 Vendor Performance & Procurement Analytics
+---
 
-SQL • Python • Power BI
+# Project Highlights
 
-Engineered a 3-stage CTE-based SQL pipeline
+## Vendor Performance & Procurement Analytics
 
-Consolidated 8,564 records across 6 relational tables
+**SQL • Python • Power BI**
 
-Analyzed 118 vendors and 8,500+ product brands
+- Engineered a **3-stage CTE-based SQL pipeline**
+- Consolidated **8,564 records** across 6 relational tables
+- Analyzed **118 vendors** and **8,500+ product brands**
+- Analyzed **$441M sales** vs **$307M purchase spend**
+- Identified **38.72% average profit margin**
+- Developed **21 Power BI KPIs**
+- Analyzed profitability, stock turnover, unsold inventory, and freight costs
 
-Analyzed $441M sales vs $307M purchase spend
+**[View Repository →](https://github.com/Kp-herald/vendor_performance_dashboard_analytics)**
 
-Identified 38.72% average profit margin
+---
 
-Developed 21 Power BI KPIs
+## Credit Card Financial Dashboard
 
-Analyzed profitability, stock turnover, unsold inventory, and freight costs
+**SQL • Power BI**
 
-🔗 View Repository →
+- Integrated **10,000+ records** across 2 datasets
+- Analyzed **$44.5M transactions**
+- Analyzed **$7.8M interest revenue**
+- Evaluated performance across **52 weeks**
+- Identified high-performing card segments
+- Analyzed delinquency risk across **614 accounts**
+- Developed utilization and financial KPIs
 
-💳 Credit Card Financial Dashboard
+**[View Repository →](https://github.com/Kp-herald/credit-card-financial-dashboard)**
 
-SQL • Power BI
+---
 
-Integrated 10,000+ records across 2 datasets
+## Customer Shopping Behaviour Analysis
 
-Analyzed $44.5M transactions
+**SQL • Python • Power BI**
 
-Analyzed $7.8M interest revenue
+- Analyzed **3,900+ customer records** across 18 variables
+- Used Python Pandas and SQL for customer analysis
+- Created **10+ SQL queries** using CTEs and Window Functions
+- Segmented customers into **3 loyalty tiers**
+- Identified high-value customer segments
+- Found that **57% of discount-applied transactions** exceeded average purchase value
 
-Evaluated performance across 52 weeks
+**[View Repository →](https://github.com/Kp-herald/customer_shopping_behavior_data_analysis)**
 
-Identified high-performing card segments
+---
 
-Analyzed delinquency risk across 614 accounts
+## ElectroHub Sales Analytics
 
-Developed utilization and financial KPIs
+**Power BI**
 
-🔗 View Repository →
+- Analyzed **3,510+ sales orders**
+- Covered **15+ Indian cities**
+- Analyzed **₹122M total revenue**
+- Analyzed **₹12.2M total profit**
+- Analyzed **7,100+ units sold**
+- Built a **4-page interactive Power BI dashboard**
+- Developed dynamic period-comparison analysis
+- Ranked performance across **30+ SKUs**
 
-🛍️ Customer Shopping Behaviour Analysis
+**[View Repository →](https://github.com/Kp-herald/electrohub-sales-analytics)**
 
-SQL • Python • Power BI
+---
 
-Analyzed 3,900+ customer records across 18 variables
-
-Used Python Pandas and SQL for customer analysis
-
-Created 10+ SQL queries using CTEs and Window Functions
-
-Segmented customers into 3 loyalty tiers
-
-Identified high-value customer segments
-
-Found that 57% of discount-applied transactions exceeded average purchase value
-
-Generated customer retention and promotional insights
-
-🔗 View Repository →
-
-⚡ ElectroHub Sales Analytics
-
-Power BI
-
-Analyzed 3,510+ sales orders
-
-Covered 15+ Indian cities
-
-Analyzed ₹122M total revenue
-
-Analyzed ₹12.2M total profit
-
-Analyzed 7,100+ units sold
-
-Built a 4-page interactive Power BI dashboard
-
-Developed dynamic period-comparison analysis
-
-Ranked performance across 30+ SKUs
-
-🔗 View Repository →
-
-🏆 Certifications
+# Certifications
 
 <div align="center">
 
 <a href="https://www.hackerrank.com/certificates/4e519c1219de">
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20Advanced-D3D3D3?style=for-the-badge&logo=hackerrank&logoColor=D32F2F"/>
+<img src="https://img.shields.io/badge/HackerRank-SQL%20Advanced-00B4D8?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://www.theforage.com/">
-  <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-D3D3D3?style=for-the-badge&logo=deloitte&logoColor=D32F2F"/>
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-0077B6?style=for-the-badge&logo=deloitte&logoColor=white"/>
 </a>
 
 </div>
 
-🎓 Education
+---
+
+# Education
 
 <div align="center">
 
-Bachelor of Technology — Computer Science & Engineering
+### Bachelor of Technology — Computer Science & Engineering
 
-Nalla Narasimha Reddy Groups of Institutions
+**Nalla Narasimha Reddy Groups of Institutions**
 
-December 2021 – June 2025
+**December 2021 – June 2025**
 
-CGPA: 7.76 / 10.0
+**CGPA: 7.76 / 10.0**
 
 </div>
 
-🎯 Current Focus
+---
+
+# Resume
 
 <div align="center">
 
-📊 Building real-world Data Analytics projects
-📈 Developing interactive Power BI dashboards
-🗄️ Strengthening SQL analytics & problem-solving
-🐍 Applying Python for data analysis
-💼 Developing Business Analysis skills
-📑 Creating KPI-driven reporting solutions
-🎯 Preparing for Data Analyst & BI Analyst opportunities
+<a href="./Katti_Pramod_Herald_Data_Analyst.pdf">
+<img src="https://img.shields.io/badge/VIEW%20MY%20RESUME-0077B6?style=for-the-badge"/>
+</a>
 
 </div>
 
-📈 My Analytics Workflow
+---
+
+# Current Focus
 
 <div align="center">
 
-Business Problem
-        ↓
-Requirements & Analytical Questions
-        ↓
-Data Collection
-        ↓
-Data Cleaning & Validation
-        ↓
-SQL / Python Analysis
-        ↓
-KPI & Trend Analysis
-        ↓
-Power BI / Tableau Visualization
-        ↓
-Business Insights
-        ↓
-Data-Driven Decisions
+| Focus Area | What I'm Working On |
+|:---:|:---|
+| **Data Analytics** | Building real-world analytical projects |
+| **Power BI** | Developing interactive dashboards and KPI reports |
+| **SQL** | Strengthening analytical SQL and problem-solving |
+| **Python** | Applying Python for data analysis and visualization |
+| **Business Analysis** | Developing requirements and process analysis skills |
+| **Reporting** | Creating KPI-driven business insights |
 
 </div>
 
-🤝 Connect With Me
+---
+
+# Analytics Workflow
+
+<div align="center">
+
+**Business Problem**
+
+↓  
+
+**Requirements & Analytical Questions**
+
+↓
+
+**Data Collection**
+
+↓
+
+**Data Cleaning & Validation**
+
+↓
+
+**SQL / Python Analysis**
+
+↓
+
+**KPI & Trend Analysis**
+
+↓
+
+**Power BI / Tableau Visualization**
+
+↓
+
+**Business Insights**
+
+↓
+
+**Data-Driven Decisions**
+
+</div>
+
+---
+
+# Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/k-pramod-herald">
-  <img src="https://img.shields.io/badge/LinkedIn-D3D3D3?style=for-the-badge&logo=linkedin&logoColor=D32F2F"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://x.com/your_x_handle">
-  <img src="https://img.shields.io/badge/X-D3D3D3?style=for-the-badge&logo=x&logoColor=D32F2F"/>
-</a>
-<a href="https://instagram.com/your_instagram_handle">
-  <img src="https://img.shields.io/badge/Instagram-D3D3D3?style=for-the-badge&logo=instagram&logoColor=D32F2F"/>
-</a>
-<a href="https://tiktok.com/@your_tiktok_handle">
-  <img src="https://img.shields.io/badge/TikTok-D3D3D3?style=for-the-badge&logo=tiktok&logoColor=D32F2F"/>
-</a>
-<a href="https://youtube.com/@your_youtube_handle">
-  <img src="https://img.shields.io/badge/YouTube-D3D3D3?style=for-the-badge&logo=youtube&logoColor=D32F2F"/>
-</a>
+
 <a href="mailto:kpherald7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D3D3D3?style=for-the-badge&logo=gmail&logoColor=D32F2F"/>
+<img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/Kp-herald">
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Turning Data Into Insights. Turning Insights Into Decisions.
+
+**Thanks for visiting my profile.**
 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF3B3B,50:E5B8B8,100:D3D3D3&height=150&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF3B3B,50:E5B8B8,100:D3D3D3&height=150&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3B3B,50:E5B8B8,100:D3D3D3&height=150&section=footer" width="100%" alt="footer"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123C69,100:00B4D8&height=150&section=footer&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:CAF0F8,50:90E0EF,100:0077B6&height=150&section=footer&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123C69,100:00B4D8&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
 </picture>
-
-<div align="center">
-
-⭐ Thanks for visiting my profile — let's connect and build something data-driven together! ⭐
-
-</div>
