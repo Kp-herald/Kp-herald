@@ -103,59 +103,62 @@ I enjoy analyzing data, identifying trends and patterns, designing meaningful KP
 
 ---
 
-## 🚀 Featured Projects
-
+<!-- ================= FEATURED PROJECTS ================= -->
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/Kp-herald/vendor_performance_dashboard_analytics">
-    <img src="./assets/projects/vendor-performance.png" width="100%" alt="Vendor Performance & Procurement Analytics"/>
+    <img src="https://raw.githubusercontent.com/Kp-herald/Kp-herald/main/assets/projects/vendor-performance.png" width="100%" alt="Vendor Performance & Procurement Analytics"/>
   </a>
+  <br/><br/>
   <h3>Vendor Performance & Procurement Analytics</h3>
   <p><b>SQL • Python • Power BI</b></p>
   <p>End-to-end procurement analytics covering vendor performance, sales, profitability, purchasing, inventory, and brand concentration.</p>
   <p><code>$441M Sales</code> · <code>118 Vendors</code> · <code>21 KPIs</code></p>
   <a href="https://github.com/Kp-herald/vendor_performance_dashboard_analytics">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View Vendor Project"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/Kp-herald/credit-card-financial-dashboard">
-    <img src="./assets/projects/credit-card-financial.png" width="100%" alt="Credit Card Financial Dashboard"/>
+    <img src="https://raw.githubusercontent.com/Kp-herald/Kp-herald/main/assets/projects/credit-card-financial.png" width="100%" alt="Credit Card Financial Dashboard"/>
   </a>
+  <br/><br/>
   <h3>Credit Card Financial Dashboard</h3>
   <p><b>SQL • Power BI</b></p>
   <p>Financial analytics covering transactions, revenue, customer segments, utilization, and delinquency risk.</p>
   <p><code>$44.5M Transactions</code> · <code>$7.8M Interest Revenue</code> · <code>614 Accounts</code></p>
   <a href="https://github.com/Kp-herald/credit-card-financial-dashboard">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View Credit Card Project"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/Kp-herald/customer_shopping_behavior_data_analysis">
-    <img src="./assets/projects/customer-shopping.png" width="100%" alt="Customer Shopping Behaviour Analysis"/>
+    <img src="https://raw.githubusercontent.com/Kp-herald/Kp-herald/main/assets/projects/customer-shopping.png" width="100%" alt="Customer Shopping Behaviour Analysis"/>
   </a>
+  <br/><br/>
   <h3>Customer Shopping Behaviour Analysis</h3>
   <p><b>SQL • Python • Power BI</b></p>
   <p>Customer analytics project focused on purchasing patterns, customer segmentation, loyalty, and promotional performance.</p>
   <p><code>3,900+ Customers</code> · <code>3 Loyalty Tiers</code> · <code>10+ SQL Queries</code></p>
   <a href="https://github.com/Kp-herald/customer_shopping_behavior_data_analysis">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View Customer Project"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/Kp-herald/electrohub-sales-analytics">
-    <img src="./assets/projects/electrohub.png" width="100%" alt="ElectroHub Sales Analytics"/>
+    <img src="https://raw.githubusercontent.com/Kp-herald/Kp-herald/main/assets/projects/electrohub.png" width="100%" alt="ElectroHub Sales Analytics"/>
   </a>
+  <br/><br/>
   <h3>ElectroHub Sales Analytics</h3>
   <p><b>Power BI</b></p>
   <p>Sales analytics dashboard covering revenue, profitability, product performance, geography, and period comparisons.</p>
   <p><code>₹122M Revenue</code> · <code>₹12.2M Profit</code> · <code>30+ SKUs</code></p>
   <a href="https://github.com/Kp-herald/electrohub-sales-analytics">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View ElectroHub Project"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </td>
 </tr>
@@ -163,6 +166,7 @@ I enjoy analyzing data, identifying trends and patterns, designing meaningful KP
 </div>
 
 ---
+
 
 ## 🔍 Project Highlights
 
