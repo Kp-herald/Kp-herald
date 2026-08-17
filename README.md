@@ -105,11 +105,177 @@ I enjoy analyzing data, identifying trends and patterns, designing meaningful KP
 
 ## 🚀 Featured Projects
 
-### 🛒 1. Vendor Performance & Procurement Analytics
-> **SQL • Python • Power BI**  
-> End-to-end procurement analytics covering vendor performance, sales, profitability, purchasing, inventory, and brand concentration.
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+  <br/>
+  <a href="https://github.com/Kp-herald/vendor_performance_dashboard_analytics">
+    <img src="https://img.shields.io/badge/Procurement%20Analytics-SQL%20|%20Python%20|%20Power%20BI-0077B6?style=for-the-badge&logo=powerbi&logoColor=white" width="100%" alt="Vendor Performance & Procurement Analytics"/>
+  </a>
+  <br/><br/>
+  <h3>Vendor Performance & Procurement Analytics</h3>
+  <p><b>SQL • Python • Power BI</b></p>
+  <p>End-to-end procurement analytics covering vendor performance, sales, profitability, purchasing, inventory, and brand concentration.</p>
+  <p><code>$441M Sales</code> · <code>118 Vendors</code> · <code>21 KPIs</code></p>
+  <a href="https://github.com/Kp-herald/vendor_performance_dashboard_analytics">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</td>
+<td width="50%" valign="top">
+  <br/>
+  <a href="https://github.com/Kp-herald/credit-card-financial-dashboard">
+    <img src="https://img.shields.io/badge/Financial%20Risk%20Dashboard-SQL%20|%20Power%20BI-0B1220?style=for-the-badge&logo=powerbi&logoColor=F2C811" width="100%" alt="Credit Card Financial Dashboard"/>
+  </a>
+  <br/><br/>
+  <h3>Credit Card Financial Dashboard</h3>
+  <p><b>SQL • Power BI</b></p>
+  <p>Financial analytics covering transactions, revenue, customer segments, utilization, and delinquency risk.</p>
+  <p><code>$44.5M Transactions</code> · <code>$7.8M Interest Revenue</code> · <code>614 Accounts</code></p>
+  <a href="https://github.com/Kp-herald/credit-card-financial-dashboard">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <br/>
+  <a href="https://github.com/Kp-herald/customer_shopping_behavior_data_analysis">
+    <img src="https://img.shields.io/badge/Customer%20Behavior%20Analysis-Python%20|%20EDA-00B4D8?style=for-the-badge&logo=python&logoColor=white" width="100%" alt="Customer Shopping Behaviour Analysis"/>
+  </a>
+  <br/><br/>
+  <h3>Customer Shopping Behaviour Analysis</h3>
+  <p><b>SQL • Python • Power BI</b></p>
+  <p>Customer analytics project focused on purchasing patterns, customer segmentation, loyalty, and promotional performance.</p>
+  <p><code>3,900+ Customers</code> · <code>3 Loyalty Tiers</code> · <code>10+ SQL Queries</code></p>
+  <a href="https://github.com/Kp-herald/customer_shopping_behavior_data_analysis">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</td>
+<td width="50%" valign="top">
+  <br/>
+  <a href="https://github.com/Kp-herald/electrohub-sales-analytics">
+    <img src="https://img.shields.io/badge/Sales%20Performance%20Dashboard-Power%20BI%20|%20DAX-123C69?style=for-the-badge&logo=powerbi&logoColor=white" width="100%" alt="ElectroHub Sales Analytics"/>
+  </a>
+  <br/><br/>
+  <h3>ElectroHub Sales Analytics</h3>
+  <p><b>Power BI</b></p>
+  <p>Sales analytics dashboard covering revenue, profitability, product performance, geography, and period comparisons.</p>
+  <p><code>₹122M Revenue</code> · <code>₹12.2M Profit</code> · <code>30+ SKUs</code></p>
+  <a href="https://github.com/Kp-herald/electrohub-sales-analytics">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</td>
+</tr>
+</table>
+</div>
 
-```mermaid
-pie title Profit Margin vs Spend ($M)
-    "Purchase Spend ($307M)" : 307
-    "Gross Profit Margin ($134M)" : 134
+---
+
+## 🔍 Project Highlights
+
+### 🛒 Vendor Performance & Procurement Analytics `SQL` `Python` `Power BI`
+* Engineered a 3-stage CTE-based SQL pipeline consolidating **8,564 records** across 6 relational tables.
+* Analyzed **118 vendors** and **8,500+ product brands** representing **$441M in sales** vs **$307M purchase spend**.
+* Identified a **38.72% average profit margin** and developed **21 Power BI KPIs**.
+* Analyzed stock turnover, unsold inventory, and freight cost optimizations.
+* 👉 [View Repository](https://github.com/Kp-herald/vendor_performance_dashboard_analytics)
+
+### 💳 Credit Card Financial Dashboard `SQL` `Power BI`
+* Integrated **10,000+ records** across 2 datasets to evaluate performance over **52 weeks**.
+* Analyzed **$44.5M in transactions** and **$7.8M in interest revenue**.
+* Identified top-performing card segments and monitored delinquency risk across **614 accounts**.
+* Developed key utilization, balance, and financial risk metrics.
+* 👉 [View Repository](https://github.com/Kp-herald/credit-card-financial-dashboard)
+
+### 🛍️ Customer Shopping Behaviour Analysis `SQL` `Python` `Power BI`
+* Analyzed **3,900+ customer records** across 18 behavioral variables using Python (Pandas) and SQL.
+* Crafted **10+ complex SQL queries** utilizing CTEs and Window Functions.
+* Segmented customers into **3 distinct loyalty tiers** to highlight high-value demographics.
+* Discovered that **57% of discount-applied transactions** exceeded the average purchase value.
+* 👉 [View Repository](https://github.com/Kp-herald/customer_shopping_behavior_data_analysis)
+
+### ⚡ ElectroHub Sales Analytics `Power BI`
+* Analyzed **3,510+ sales orders** across **15+ Indian cities**, tracking **₹122M revenue** and **₹12.2M profit**.
+* Built a comprehensive **4-page interactive Power BI dashboard**.
+* Developed dynamic period-over-period comparisons and ranked performance across **30+ SKUs**.
+* 👉 [View Repository](https://github.com/Kp-herald/electrohub-sales-analytics)
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+  <a href="https://www.hackerrank.com/certificates/4e519c1219de" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-SQL%20Advanced-00B4D8?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Advanced"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1OG0ksQMdmDUu8qkBO2c_GpO4e8hqsOpx/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-0077B6?style=for-the-badge&logo=deloitte&logoColor=white" alt="Deloitte Data Analytics Job Simulation"/>
+  </a>
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+### Bachelor of Technology — Computer Science & Engineering
+**Nalla Narasimha Reddy Group of Institutions**  
+*December 2021 – June 2025* | **CGPA: 7.76 / 10.0**
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+| Focus Area | What I'm Working On |
+| :--- | :--- |
+| **Data Analytics** | Building real-world, business-focused analytical projects |
+| **Power BI** | Developing interactive dashboards, DAX measures, and KPI reports |
+| **SQL** | Strengthening analytical query design, indexing, and complex problem-solving |
+| **Python** | Applying Python (Pandas, NumPy, Seaborn) for EDA and automation |
+| **Business Analysis** | Developing business requirements documentation and process analytics |
+| **Reporting** | Translating raw data into executive-level, KPI-driven business insights |
+
+---
+
+## 🔄 Analytics Workflow
+
+<div align="center">
+  <img src="https://img.shields.io/badge/1.-Business%20Problem-0B1220?style=for-the-badge"/> ➔ 
+  <img src="https://img.shields.io/badge/2.-Data%20Cleaning-0077B6?style=for-the-badge"/> ➔ 
+  <img src="https://img.shields.io/badge/3.-SQL%20%26%20Python-00B4D8?style=for-the-badge"/> ➔ 
+  <img src="https://img.shields.io/badge/4.-Power%20BI%20Dashboards-48CAE4?style=for-the-badge&logo=powerbi&logoColor=white"/> ➔ 
+  <img src="https://img.shields.io/badge/5.-Business%20Insights-90E0EF?style=for-the-badge&labelColor=0B1220"/>
+</div>
+<div align="center">
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/k-pramod-herald" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kpherald7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Kp-herald" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <br/><br/>
+
+  <p><b>Turning Data Into Insights. Turning Insights Into Decisions.</b></p>
+  <p><i>Thanks for visiting my profile!</i></p>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123C69,100:00B4D8&height=150&section=footer&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:CAF0F8,50:90E0EF,100:0077B6&height=150&section=footer&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123C69,100:00B4D8&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
+  </picture>
+</div>
