@@ -274,8 +274,8 @@ I enjoy analyzing data, identifying trends and patterns, designing meaningful KP
   <p><i>Thanks for visiting my profile!</i></p>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123C69,100:00B4D8&height=150&section=footer&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:CAF0F8,50:90E0EF,100:0077B6&height=150&section=footer&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123C69,100:00B4D8&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123C69,100:00B4D8&height=150&section=header&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:CAF0F8,50:90E0EF,100:0077B6&height=150&section=header&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123C69,100:00B4D8&height=150&section=header&animation=fadeIn" width="100%" alt="Footer"/>
+</picture>
 </div>
