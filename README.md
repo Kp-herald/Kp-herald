@@ -114,7 +114,7 @@ I enjoy analyzing data, identifying trends and patterns, designing meaningful KP
     <img src="https://img.shields.io/badge/Procurement%20Analytics-SQL%20|%20Python%20|%20Power%20BI-0077B6?style=for-the-badge&logo=powerbi&logoColor=white" width="100%" alt="Vendor Performance & Procurement Analytics"/>
   </a>
   <br/><br/>
-  <h3>Vendor Performance & Procurement Analytics</h3>
+  <h3>Vendor Performance Dashboard Analytics</h3>
   <p><b>SQL • Python • Power BI</b></p>
   <p>End-to-end procurement analytics covering vendor performance, sales, profitability, purchasing, inventory, and brand concentration.</p>
   <p><code>$441M Sales</code> · <code>118 Vendors</code> · <code>21 KPIs</code></p>
@@ -174,7 +174,7 @@ I enjoy analyzing data, identifying trends and patterns, designing meaningful KP
 
 ## 🔍 Project Highlights
 
-### 🛒 Vendor Performance & Procurement Analytics `SQL` `Python` `Power BI`
+### 🛒 Vendor Performance Dashboard Analytics `SQL` `Python` `Power BI`
 * Engineered a 3-stage CTE-based SQL pipeline consolidating **8,564 records** across 6 relational tables.
 * Analyzed **118 vendors** and **8,500+ product brands** representing **$441M in sales** vs **$307M purchase spend**.
 * Identified a **38.72% average profit margin** and developed **21 Power BI KPIs**.
