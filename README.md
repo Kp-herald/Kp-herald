@@ -108,8 +108,9 @@ I enjoy analyzing data, identifying trends and patterns, designing meaningful KP
 <table>
 <tr>
 <td width="50%" valign="top">
+  <br/>
   <a href="https://github.com/Kp-herald/vendor_performance_dashboard_analytics">
-    <img src="https://raw.githubusercontent.com/Kp-herald/Kp-herald/main/assets/projects/vendor-performance.png" width="100%" alt="Vendor Performance & Procurement Analytics"/>
+    <img src="https://img.shields.io/badge/Procurement%20Analytics-SQL%20|%20Python%20|%20Power%20BI-0077B6?style=for-the-badge&logo=powerbi&logoColor=white" width="100%" alt="Vendor Performance & Procurement Analytics"/>
   </a>
   <br/><br/>
   <h3>Vendor Performance & Procurement Analytics</h3>
@@ -121,8 +122,9 @@ I enjoy analyzing data, identifying trends and patterns, designing meaningful KP
   </a>
 </td>
 <td width="50%" valign="top">
+  <br/>
   <a href="https://github.com/Kp-herald/credit-card-financial-dashboard">
-    <img src="https://raw.githubusercontent.com/Kp-herald/Kp-herald/main/assets/projects/credit-card-financial.png" width="100%" alt="Credit Card Financial Dashboard"/>
+    <img src="https://img.shields.io/badge/Financial%20Risk%20Dashboard-SQL%20|%20Power%20BI-0B1220?style=for-the-badge&logo=powerbi&logoColor=F2C811" width="100%" alt="Credit Card Financial Dashboard"/>
   </a>
   <br/><br/>
   <h3>Credit Card Financial Dashboard</h3>
@@ -136,8 +138,9 @@ I enjoy analyzing data, identifying trends and patterns, designing meaningful KP
 </tr>
 <tr>
 <td width="50%" valign="top">
+  <br/>
   <a href="https://github.com/Kp-herald/customer_shopping_behavior_data_analysis">
-    <img src="https://raw.githubusercontent.com/Kp-herald/Kp-herald/main/assets/projects/customer-shopping.png" width="100%" alt="Customer Shopping Behaviour Analysis"/>
+    <img src="https://img.shields.io/badge/Customer%20Behavior%20Analysis-Python%20|%20EDA-00B4D8?style=for-the-badge&logo=python&logoColor=white" width="100%" alt="Customer Shopping Behaviour Analysis"/>
   </a>
   <br/><br/>
   <h3>Customer Shopping Behaviour Analysis</h3>
@@ -149,8 +152,9 @@ I enjoy analyzing data, identifying trends and patterns, designing meaningful KP
   </a>
 </td>
 <td width="50%" valign="top">
+  <br/>
   <a href="https://github.com/Kp-herald/electrohub-sales-analytics">
-    <img src="https://raw.githubusercontent.com/Kp-herald/Kp-herald/main/assets/projects/electrohub.png" width="100%" alt="ElectroHub Sales Analytics"/>
+    <img src="https://img.shields.io/badge/Sales%20Performance%20Dashboard-Power%20BI%20|%20DAX-123C69?style=for-the-badge&logo=powerbi&logoColor=white" width="100%" alt="ElectroHub Sales Analytics"/>
   </a>
   <br/><br/>
   <h3>ElectroHub Sales Analytics</h3>
